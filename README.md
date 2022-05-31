@@ -9,6 +9,6 @@ Contributing to the War Ads protocol is a bit different than most open-source pr
 # Discussion
 For any concerns with the protocol, open an issue or visit us on [Discord](TODO) to discuss.
 
-For security concerns, please email admin@kpihunters.com.
+For security concerns, please email contact@infinitywarcoin.com.
 
 © Copyright 2022, SS Studios & KPI Hunters Ltda.
